@@ -1,1 +1,1 @@
-# [rsschool-cv](https://peridubt.github.io/rsschool-cv/cv)
+# [cv.md](https://peridubt.github.io/rsschool-cv/cv)
