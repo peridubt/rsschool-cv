@@ -1,1 +1,1 @@
-# [My CV page](https://peridubt.github.io/rsschool-cv/cv)
+# [My CV Web page](https://peridubt.github.io/rsschool-cv/)
